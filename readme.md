@@ -61,12 +61,12 @@ Introduction 3
 11.2 Hash tables 224    
 11.3 Hash functions 229    
 11.4 Open addressing 237    
- ⋆ 11.5 Perfect hashing 245    
+ ★11.5 Perfect hashing 245    
 ### 12 Binary Search Trees
 12.1 What is a binary search tree? 253    
 12.2 Querying a binary search tree 256    
 12.3 Insertion and deletion 261    
-⋆ 12.4 Randomly built binary search trees 265    
+★12.4 Randomly built binary search trees 265    
 ### 13 Red-Black Trees
 13.1 Properties of red-black trees 273    
 13.2 Rotations 277    
@@ -89,8 +89,8 @@ Introduction 3
 16.1 An activity-selection problem 371    
 16.2 Elements of the greedy strategy 379    
 16.3 Huffman codes 385    
-⋆ 16.4 Theoretical foundations for greedy methods  393
-⋆ 16.5 task-scheduling problem 399    
+★16.4 Theoretical foundations for greedy methods  393
+★16.5 task-scheduling problem 399    
 ### 17 Amortized Analysis     
 17.1 Aggregate analysis 406    
 17.2 The accounting method 410    
@@ -115,7 +115,7 @@ Introduction 3
 21.1 Disjoint-set operations 498    
 21.2 Linked-list representation of disjoint     sets 501    
 21.3 Disjoint-set forests 505    
-⋆21.4 Analysis of union by rank with path     compression 509    
+★1.4 Analysis of union by rank with path     compression 509    
     
 ## VI Graph Algorithms    
  Introduction 525    
@@ -143,8 +143,8 @@ Introduction 3
 26.1 Flow networks 644    
 26.2 The Ford-Fulkerson method 651    
 26.3 Maximum bipartite matching 664    
-⋆ 26.4 Push-relabel algorithms 669    
-⋆ 26.5 The relabel-to-front algorithm    
+★26.4 Push-relabel algorithms 669    
+★26.5 The relabel-to-front algorithm    
 681    
     
 ## VII Selected Topics    
@@ -179,14 +179,14 @@ Introduction 701
 31.5 The Chinese remainder theorem 873    
 31.6 Powers of an element 876    
 31.7 The RSA public-key cryptosystem    
-⋆ 31.8 Primality testing 887 
-⋆ 31.9 Integer factorization 896    
+★31.8 Primality testing 887 
+★31.9 Integer factorization 896    
 881    
 ### 32 String Matching 
 32.1 The naive string-matching algorithm 909    
 32.2 The Rabin-Karp algorithm 911    
 32.3 String matching with finite automata 916    
-⋆ 32.4 The Knuth-Morris-Pratt algorithm 923    
+★32.4 The Knuth-Morris-Pratt algorithm 923    
 ### 33 Computational Geometry 
 33.1 Line-segment properties 934    
 33.2 Determining whether any pair of segments intersects 940    
@@ -223,4 +223,4 @@ C.2 Probability 1100
 C.3 Discrete random variables 1106    
 C.4 The geometric and binomial distributions    
 1112     
-⋆ C.5 The tails of the binomial distribution     1118    
+★C.5 The tails of the binomial distribution     1118    
