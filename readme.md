@@ -43,6 +43,6 @@ Introduction 3
 8.3 Radix sort 170
 8.4 Bucket sort 174
 ### 9 Medians and Order Statistics 183
-9.1 Minimum and maximum 184
-9.2 Selection in expected linear time 185
+9.1 Minimum and maximum 184 
+9.2 Selection in expecmted linear time 185
 9.3 Selection in worst-case linear time 189
